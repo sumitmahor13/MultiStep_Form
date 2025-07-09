@@ -11,9 +11,7 @@ const Result = ({formData}) => {
             <div>Email: {formData.email}</div>
             <div>Password: {formData.password}</div>
             <div>Date: {formData.date}</div>
-
         </div>
-        
     </>
   )
 }
